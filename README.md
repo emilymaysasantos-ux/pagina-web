@@ -1,17 +1,26 @@
-# meu vlog pessoal 
-como faço as coisas do meu dia a dia
-padding: 16px;
-header {
-background-color: #183C63;
-color: #FFFFFF;
-text-align: center;
-max-width: 800px;
-margin: 0 auto;
-padding: 16px;
-}
-<img src="" alt="">
-<img src="imagem-blog.png" alt= "de uma pessoa feliz fazendo coisas do dia a dia.">
-img {
-width: 80px;
-height: 80px;
-}
+MEU BLOG
+<main>
+<img src="imagem-blog.png"
+alt="Logotipo conceitual de tecnologia e educacao: um livro aberto de onde emerge um cérebro digital brilhante, cercado por ícones de Wi-Fi, circuitos e lâmpada de ideia. Cores em tons de azul e branco.">
+
+<div>
+<h2>Meu primeiro post</h2>
+<p class="artigo-autor">Por: Marcelo Paludetto</p>
+<p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação
+e curiosidades da área de tecnologia.</p>
+<button>❤️<span>0</span></button>
+<button>👍<span>0</span></button>
+</div>
+
+<img src="imagem-blog.png"
+alt="Logotipo conceitual de tecnologia e educacao: um livro aberto de onde emerge um cérebro digital brilhante, cercado por ícones de Wi-Fi, circuitos e lâmpada de ideia. Cores em tons de azul e branco.">
+
+<div>
+<h2>Meu primeiro post</h2>
+<p class="artigo-autor">Por: Marcelo Paludetto</p>
+<p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação
+e curiosidades da área de tecnologia.</p>
+<button>❤️<span>0</span></button>
+<button>👍<span>0</span></button>
+</div>
+</main>
